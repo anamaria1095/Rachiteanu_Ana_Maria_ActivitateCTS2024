@@ -1,8 +1,8 @@
-package main;
+package composite.main;
 
-import clase.Categorie;
-import clase.Medicament;
-import clase.StructuraAbstracta;
+import composite.clase.Categorie;
+import composite.clase.Medicament;
+import composite.clase.StructuraAbstracta;
 
 public class Main {
     public static void main(String[] args) {

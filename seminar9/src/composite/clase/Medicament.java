@@ -1,4 +1,4 @@
-package clase;
+package composite.clase;
 
 public class Medicament implements StructuraAbstracta{
     String numeMedicament;

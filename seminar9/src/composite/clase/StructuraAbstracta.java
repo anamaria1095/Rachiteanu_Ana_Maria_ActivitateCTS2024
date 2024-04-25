@@ -1,4 +1,4 @@
-package clase;
+package composite.clase;
 
 public interface StructuraAbstracta {
     public void adaugareCategorie(StructuraAbstracta se);
