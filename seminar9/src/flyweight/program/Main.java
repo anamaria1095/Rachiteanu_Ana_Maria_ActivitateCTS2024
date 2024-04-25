@@ -6,6 +6,7 @@ import flyweight.clase.Reteta;
 
 public class Main {
     public static void main(String[] args) {
+        //C
         FlyweightFactory flyweightFactory=new FlyweightFactory();
         Reteta reteta1=new Reteta("reteta1",12,3);
         Reteta reteta2=new Reteta("reteta2",10,1);
